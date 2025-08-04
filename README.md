@@ -1,7 +1,7 @@
 # Gurgaon Real Estate Analytics & Prediction Platform
 
 # 🚀 Live Demo
-##Check out the app here : [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gurgaon-real-estate-dashboard-34ntxe4grfdgprhj3uvbwv.streamlit.app/)
+## Check out the app here : [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gurgaon-real-estate-dashboard-34ntxe4grfdgprhj3uvbwv.streamlit.app/)
 
 
 Welcome to the Gurgaon Real Estate Analytics Dashboard, a comprehensive, data-driven web application designed to provide deep insights into the Gurgaon property market. This project leverages machine learning and data analytics to offer tools for price prediction, market analysis, property recommendations, and interactive price estimation.
